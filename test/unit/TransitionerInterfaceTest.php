@@ -3,21 +3,21 @@
 namespace RebelCode\Bookings\UnitTest;
 
 use Xpmock\TestCase;
-use RebelCode\Bookings\BookingTransitionerInterface as TestSubject;
+use RebelCode\Bookings\TransitionerInterface as TestSubject;
 
 /**
  * Tests {@see TestSubject}.
  *
  * @since [*next-version*]
  */
-class BookingTransitionerInterfaceTest extends TestCase
+class TransitionerInterfaceTest extends TestCase
 {
     /**
      * The class name of the test subject.
      *
      * @since [*next-version*]
      */
-    const TEST_SUBJECT_CLASSNAME = 'RebelCode\Bookings\BookingTransitionerInterface';
+    const TEST_SUBJECT_CLASSNAME = 'RebelCode\Bookings\TransitionerInterface';
 
     /**
      * Creates a new instance of the test subject.

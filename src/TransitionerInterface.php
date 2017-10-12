@@ -11,7 +11,7 @@ use Dhii\Util\String\StringableInterface as Stringable;
  *
  * @since [*next-version*]
  */
-interface BookingTransitionerInterface
+interface TransitionerInterface
 {
     /**
      * Applies a transition to a booking.
