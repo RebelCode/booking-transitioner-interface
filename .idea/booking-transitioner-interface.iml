@@ -50,6 +50,7 @@
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/dhii/php-cs-fixer-config" />
           <root url="file://$MODULE_DIR$/vendor/dhii/stringable-interface" />
+          <root url="file://$MODULE_DIR$/vendor/dhii/time-interface" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
           <root url="file://$MODULE_DIR$/vendor/friendsofphp/php-cs-fixer" />
           <root url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
@@ -65,7 +66,6 @@
           <root url="file://$MODULE_DIR$/vendor/psr/log" />
           <root url="file://$MODULE_DIR$/vendor/ptrofimov/xpmock" />
           <root url="file://$MODULE_DIR$/vendor/rebelcode/booking-interface" />
-          <root url="file://$MODULE_DIR$/vendor/rebelcode/time-interface" />
           <root url="file://$MODULE_DIR$/vendor/satooshi/php-coveralls" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/comparator" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/diff" />
@@ -90,6 +90,7 @@
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/dhii/php-cs-fixer-config" />
           <root url="file://$MODULE_DIR$/vendor/dhii/stringable-interface" />
+          <root url="file://$MODULE_DIR$/vendor/dhii/time-interface" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
           <root url="file://$MODULE_DIR$/vendor/friendsofphp/php-cs-fixer" />
           <root url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
@@ -105,7 +106,6 @@
           <root url="file://$MODULE_DIR$/vendor/psr/log" />
           <root url="file://$MODULE_DIR$/vendor/ptrofimov/xpmock" />
           <root url="file://$MODULE_DIR$/vendor/rebelcode/booking-interface" />
-          <root url="file://$MODULE_DIR$/vendor/rebelcode/time-interface" />
           <root url="file://$MODULE_DIR$/vendor/satooshi/php-coveralls" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/comparator" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/diff" />
