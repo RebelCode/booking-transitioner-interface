@@ -12,7 +12,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^5.3 | ^7.0"
+        "php": "^5.3 | ^7.0",
+        "dhii/factory-interface": "0.1-alpha1 | 0.1-alpha2"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",
