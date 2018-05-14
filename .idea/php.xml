@@ -42,6 +42,7 @@
       <path value="$PROJECT_DIR$/vendor/dhii/time-interface" />
       <path value="$PROJECT_DIR$/vendor/dhii/exception-interface" />
       <path value="$PROJECT_DIR$/vendor/dhii/factory-interface" />
+      <path value="$PROJECT_DIR$/vendor/dhii/data-identifiable-interface" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.3.0" />
